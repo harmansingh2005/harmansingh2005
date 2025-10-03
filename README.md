@@ -13,11 +13,6 @@
 **Cloud & DevOps:** AWS Lambda · S3 · DynamoDB · EventBridge · CloudFront · CodePipeline · CodeBuild · IAM  
 **AI:** Transformers · Fine tuning · LoRA
 
-## Certifications
-
-- AWS Certified Cloud Practitioner (CLF-C02), 2025  
-https://www.credly.com/badges/acc1965f-0d35-4a25-a730-4d8b709428f5/public_url
-
 ## Featured Projects
 
 | Project | Summary | Tech Stack |
